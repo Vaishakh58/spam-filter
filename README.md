@@ -1,3 +1,3 @@
 # spam-filter
 SMS/eMail Spam filter 
-dataset can be modified
+Naive Bayes Classification does better prediction of model for text data
